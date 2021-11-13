@@ -1,9 +1,9 @@
 package airport;
 
-import model.ExperimentalType;
 import model.ClassificationLevel;
-import plane.ExperimentalPlane;
+import model.ExperimentalType;
 import model.MilitaryType;
+import plane.ExperimentalPlane;
 import plane.MilitaryPlane;
 import plane.PassengerPlane;
 import plane.Plane;
